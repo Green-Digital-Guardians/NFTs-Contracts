@@ -6,6 +6,8 @@ This is the repository where all the NFTs contracts are going to be developed.
 >- **Quantity**:
 >- **Price**:
 
+![Example](https://dgguardians.com/wp-content/uploads/2022/12/EcoBubbles-NFT-Sample-Testnet-e1670820217940.jpeg)
+
 
 - **Second collection is the Origin Collection:**
 >- **Name**: Origin Guardians NFTs
