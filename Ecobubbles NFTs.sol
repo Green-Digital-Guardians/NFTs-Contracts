@@ -12,7 +12,7 @@ contract DIGIGUARDIANS is ERC721, Ownable {
 
   Counters.Counter private supply;
 
-  string public uriPrefix = "ipfs://ACÁ PONER IPFS DIRECCION JSON";
+  string public uriPrefix = "ipfs://ACÁ SE PONDRÁ IPFS DIRECCION JSON CUANDO LAS IMÁGENES SEAN MONTADAS AL SERVIDOR IPFS";
   string public uriSuffix = ".json";
   string public hiddenMetadataUri;
   
@@ -23,7 +23,7 @@ contract DIGIGUARDIANS is ERC721, Ownable {
   bool public paused = false;
   bool public revealed = true;
 
-  constructor() ERC721("GreenDigitalGuardians", "GDG-Supporter") {
+  constructor() ERC721("EcoBubblesNFTs", "ECB") {
     setHiddenMetadataUri("ipfs://__CID__/hidden.json");
   }
 
