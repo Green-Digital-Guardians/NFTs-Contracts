@@ -6,6 +6,8 @@ This is the repository where all the NFTs contracts are going to be developed.
 >- **Quantity**:
 >- **Price**:
 
+Contract Addres en Celo Testnet: https://explorer.celo.org/alfajores/address/0x0c6D9C47f360D266d52a3F2eA4827029848bcFCA
+
 ![Example](https://dgguardians.com/wp-content/uploads/2022/12/EcoBubbles-NFT-Sample-Testnet-e1670820217940.jpeg)
 
 
